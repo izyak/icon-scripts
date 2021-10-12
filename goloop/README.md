@@ -15,7 +15,7 @@ Set an alias for any of these files in `.bashrc` or `.zshrc`.
 ```shell
 alias goloop="~/directory/goloop.sh"
 # OR
-alias goloop="~/directory/goloop.py"
+alias goloop="python3 ~/directory/goloop.py"
 ```
 
 If you use goloop.sh, you need to make it executable with the following command.
